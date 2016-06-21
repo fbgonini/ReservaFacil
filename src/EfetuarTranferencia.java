@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  * Agendamento de transferencias via pronpt, escreve e le em arquivo.
- * @author Fabio Gonini
+ * @author Fabio Gonini	
  *
  */
 public class EfetuarTranferencia {
